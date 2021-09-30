@@ -1,0 +1,1 @@
+Plotly.newPlot( "dataArea", [{x: [1, 3, 5], y: [2, 4, 6]}]);
